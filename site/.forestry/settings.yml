@@ -12,7 +12,7 @@ sections:
   templates:
   - products
 upload_dir: snipcart-hugo-demo
-public_path: ''
+public_path: "/media"
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
